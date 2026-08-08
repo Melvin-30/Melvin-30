@@ -13,8 +13,8 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-fernandes-43329b34b/)
+[![Email](https://img.shields.io/badge/Email-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandesmelvin30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melvin-30)
 
 <br/>
@@ -132,29 +132,29 @@ Additional projects will be documented here as they're finalized.
 
 **Microsoft & LinkedIn**
 
-![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20Software%20Development-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20System%20Administration-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20Generative%20AI-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/e3b11b135c92234c4256fc9d59b0385a9bd1c1e30eca22cc751d28b9085214c9)
+[![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20Software%20Development-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/4d6bc07d864ad5bf58ebfb85c37494f6201b48b4422f5c19f09ea45a83d8d4ac)
+[![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20System%20Administration-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/35cffb1f0204b618bd715793f29dcb751a5eaade03daf0af97a0f9c2586ceff1)
 
 **Adobe**
 
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Certified-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+(![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Certified-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
 
 **STP Computers**
 
-![DCA](https://img.shields.io/badge/DCA-STP%20Computers-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
+[![DCA](https://img.shields.io/badge/DCA-STP%20Computers-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
 
 **Deloitte**
 
-![Deloitte](https://img.shields.io/badge/Deloitte-Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)
+[![Deloitte](https://img.shields.io/badge/Deloitte-Job%20Simulation-86BC25?style=for-the-badge&logo=deloitte&logoColor=white)](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_69184a22f6e23f7a00b3b805_1763202957535_completion_certificate.pdf)
 
 **Coursera**
 
-![WordPress](https://img.shields.io/badge/WordPress-Certified-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+[![WordPress](https://img.shields.io/badge/WordPress-Certified-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6PGNJU41OMJ6)
 
 **IBM**
 
-![IBM](https://img.shields.io/badge/IBM%20SkillBuild-SQL%20%26%20Relational%20Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+[![IBM](https://img.shields.io/badge/IBM%20SkillBuild-SQL%20%26%20Relational%20Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white)]()
 
 **WhiteHat Jr**
 
