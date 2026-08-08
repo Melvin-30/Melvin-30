@@ -154,21 +154,21 @@ Additional projects will be documented here as they're finalized.
 
 **IBM**
 
-[![IBM](https://img.shields.io/badge/IBM%20SkillBuild-SQL%20%26%20Relational%20Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white)]()
+[![IBM](https://img.shields.io/badge/IBM%20SkillBuild-SQL%20%26%20Relational%20Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
 
 **WhiteHat Jr**
 
-![App Dev](https://img.shields.io/badge/App%20Developer-WhiteHat%20Jr-8A2BE2?style=for-the-badge&logo=android&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game%20Developer-WhiteHat%20Jr-8A2BE2?style=for-the-badge&logo=unity&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-WhiteHat%20Jr-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)
+[![App Dev](https://img.shields.io/badge/App%20Developer-WhiteHat%20Jr-8A2BE2?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Game Dev](https://img.shields.io/badge/Game%20Developer-WhiteHat%20Jr-8A2BE2?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-WhiteHat%20Jr-8A2BE2?style=for-the-badge&logo=figma&logoColor=white)](#)
 
 **Infosys Springboard**
 
-![Photography](https://img.shields.io/badge/Professional%20Photography-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20Fundamentals-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)
+[![Photography](https://img.shields.io/badge/Professional%20Photography-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python%20Fundamentals-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![HTML](https://img.shields.io/badge/HTML-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
 
 > 📌 *Additional certifications to be added here as they are verified and listed.*
 
