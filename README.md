@@ -100,21 +100,21 @@ My work spans **full stack development**, practical **AI/ML integration using LL
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🌐 Website Project (Details Coming Soon)</b></summary>
+<summary><b>🎓 Std 12th IT Subject SOPs Portal (Maharashtra Board)</b></summary>
 <br/>
 
-A live website built and currently in use — full details, tech stack breakdown, and repository link to be added soon.
+A resource hub built for Maharashtra State Board 12th Standard students appearing for their Information Technology exams — providing SOP study material, curated resources, and a dynamic mock exam system that mirrors the real board exam experience.
 
 | Category | Details |
 |---|---|
-| **Stack** | *To be added* |
-| **Scale** | *To be added* |
-| **Performance** | *To be added* |
-| **Security** | *To be added* |
-| **Impact** | *To be added* |
-| **Repository** | *To be added* |
+| **Stack** | Semantic HTML5, Vanilla CSS3, Vanilla JavaScript, JSON-based question bank |
+| **Scale** | Covers both Science and Commerce streams with dedicated SOP libraries and mock exams |
+| **Performance** | Dynamic mock test engine generates a unique question paper per session from a randomized question bank |
+| **Security** | Client-side static site with no user data storage — safe for public student use |
+| **Impact** | Live and actively used by 12th IT students for exam prep and practice |
+| **Repository** | [Melvin-30/Website](https://github.com/Melvin-30/Website) |
 
-*Project description and professional write-up coming soon.*
+Built as a one-stop platform for Skill Oriented Practicals (SOPs), the portal features a realistic exam UI with seat number entry, a countdown timer, section-wise navigation, instant scoring, and an answer key reveal — designed to help students both practice and learn from mistakes. Live at [12thitsop.netlify.app](https://12thitsop.netlify.app/).
 
 </details>
 
@@ -222,11 +222,11 @@ Additional projects will be documented here as they're finalized.
 <p align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+srcset="https://raw.githubusercontent.com/Melvin-30/Melvin-30/output/github-snake-dark.svg"/>
 <source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+srcset="https://raw.githubusercontent.com/Melvin-30/Melvin-30/output/github-snake.svg"/>
 <img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+src="https://raw.githubusercontent.com/Melvin-30/Melvin-30/output/github-snake.svg"/>
 </picture>
 </p>
 </div>
@@ -258,8 +258,8 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandesmelvin30@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melvin-fernandes-43329b34b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Melvin-30)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
