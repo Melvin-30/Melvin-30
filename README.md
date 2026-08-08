@@ -119,6 +119,21 @@ Built as a one-stop platform for Skill Oriented Practicals (SOPs), the portal fe
 </details>
 
 <details>
+<summary><b>🌐 Personal Portfolio Website</b></summary>
+<br/>
+
+A fully custom-built personal portfolio website with a terminal/developer aesthetic, showcasing projects, certifications, GitHub analytics, and a connect section.
+
+| Category | Details |
+|---|---|
+| **Stack** | Semantic HTML5, Vanilla CSS3, Vanilla JavaScript, Lucide Icons |
+| **Design** | Dark-mode terminal/IDE aesthetic with glassmorphism, ambient glow blobs, and micro-animations |
+| **Features** | Scroll-progress bar, typing animation, certification filter system, mobile-responsive drawer nav |
+| **Repository** | [Melvin-30/Portfolio](https://github.com/Melvin-30/Portfolio-Website) |
+
+</details>
+
+<details>
 <summary><b>➕ More Projects Coming Soon</b></summary>
 <br/>
 
@@ -136,13 +151,10 @@ Additional projects will be documented here as they're finalized.
 [![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20Software%20Development-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/4d6bc07d864ad5bf58ebfb85c37494f6201b48b4422f5c19f09ea45a83d8d4ac)
 [![Microsoft](https://img.shields.io/badge/Career%20Essentials%20in%20System%20Administration-Microsoft%20%26%20LinkedIn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/35cffb1f0204b618bd715793f29dcb751a5eaade03daf0af97a0f9c2586ceff1)
 
-**Adobe**
-
-[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Certified-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
-
 **STP Computers**
 
-[![DCA](https://img.shields.io/badge/DCA-STP%20Computers-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![DCA](https://img.shields.io/badge/DCA%20(Diploma%20in%20Computer%20Applications)-STP%20Computers-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)](#)
+[![Photoshop](https://img.shields.io/badge/Photoshop%20Course-STP%20Computers-6A0DAD?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
 
 **Deloitte**
 
@@ -150,11 +162,19 @@ Additional projects will be documented here as they're finalized.
 
 **Coursera**
 
-[![WordPress](https://img.shields.io/badge/WordPress-Certified-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6PGNJU41OMJ6)
+[![WordPress](https://img.shields.io/badge/Build%20a%20Full%20Website%20using%20WordPress-Coursera-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/6PGNJU41OMJ6)
 
-**IBM**
+**IBM SkillsBuild**
 
-[![IBM](https://img.shields.io/badge/IBM%20SkillBuild-SQL%20%26%20Relational%20Databases-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+[![IBM SQL](https://img.shields.io/badge/SQL%20%26%20Relational%20Databases%20101-IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+[![IBM Cybersecurity](https://img.shields.io/badge/Cybersecurity%20Fundamentals-IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+[![IBM IT](https://img.shields.io/badge/Information%20Technology%20Fundamentals-IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+[![IBM Social Media](https://img.shields.io/badge/Develop%20Your%20Brand%20Using%20Social%20Media-IBM%20SkillsBuild-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](#)
+
+**Intel · Digital India**
+
+[![Intel AI Appreciate](https://img.shields.io/badge/AI%20For%20All%20%E2%80%94%20AI%20Appreciate-Intel%20%C2%B7%20Digital%20India-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
+[![Intel AI Aware](https://img.shields.io/badge/AI%20For%20All%20%E2%80%94%20AI%20Aware-Intel%20%C2%B7%20Digital%20India-0071C5?style=for-the-badge&logo=intel&logoColor=white)](#)
 
 **WhiteHat Jr**
 
@@ -164,11 +184,21 @@ Additional projects will be documented here as they're finalized.
 
 **Infosys Springboard**
 
-[![Photography](https://img.shields.io/badge/Professional%20Photography-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python%20Fundamentals-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5%20%E2%80%94%20The%20Language-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python%20Fundamentals-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+[![Photography](https://img.shields.io/badge/Professional%20Photography-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-Infosys-007CC3?style=for-the-badge&logo=infosys&logoColor=white)](#)
+
+**Udemy**
+
+[![Udemy UC-30baea8f](https://img.shields.io/badge/Udemy%20Course%20Certificate%20(UC--30baea8f)-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-30baea8f-47f8-4428-86c4-3adadd13cad3/)
+[![Udemy UC-91fd37c5](https://img.shields.io/badge/Udemy%20Course%20Certificate%20(UC--91fd37c5)-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-91fd37c5-c7f8-466a-8b0c-5423512a9ba9/)
+[![Udemy UC-d93a53d3](https://img.shields.io/badge/Udemy%20Course%20Certificate%20(UC--d93a53d3)-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/certificate/UC-d93a53d3-7bde-455a-bcf4-b90b1328a4e7/)
+
+**Mindluster**
+
+[![Mindluster](https://img.shields.io/badge/Mindluster%20Course%20Certificate-Mindluster-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)](#)
 
 > 📌 *Additional certifications to be added here as they are verified and listed.*
 
