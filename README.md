@@ -138,7 +138,7 @@ Additional projects will be documented here as they're finalized.
 
 **Adobe**
 
-(![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Certified-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
+[![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-Certified-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)](#)
 
 **STP Computers**
 
